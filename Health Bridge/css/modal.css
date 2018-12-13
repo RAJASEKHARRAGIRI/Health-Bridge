@@ -1,0 +1,188 @@
+﻿body {
+}
+/* Container */
+.modal {
+    /* Overlay page content */
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0,0,0,0.7);
+    z-index: 10000;
+    /* Transition opacity on open */
+    -webkit-transition: opacity 500ms ease-in;
+    -moz-transition: opacity 500ms ease-in;
+    transition: opacity 100ms ease-in;
+    /* Hide for now */
+    opacity: 0;
+    pointer-events: none;
+}
+
+    /* Show modal */
+    .modal:target {
+        opacity: 1;
+        pointer-events: auto;
+        /* at time of writing (Feb 2012), pointer-events not supported by Opera or IE */
+    }
+
+    /* Content */
+    .modal > div {
+        width: 800px;
+        background: #fff;
+        position: relative;
+        margin: 10% auto;
+        /* Default minimise animation */
+        -webkit-animation: minimise 500ms linear;
+        -moz-animation: minimise 500ms linear;
+        animation: minimise 500ms linear;
+        /* Prettify */
+        padding: 0px;
+        border-radius: 7px;
+        text-shadow: 0 1px 0 #fff;
+    }
+.innerModal{
+    width: 900px;
+}
+
+
+.modal h2 {
+    font-size: 36px;
+    padding: 0 0 20px;
+}
+
+
+/* Modal close link */
+.modal a[href="#close"] {
+    position: absolute;
+    right: 0;
+    top: 0;
+    color: transparent;
+}
+
+    /* Reset native styles */
+    .modal a[href="#close"]:focus {
+        outline: none;
+    }
+
+    /* Create close button */
+    .modal a[href="#close"]:after {
+        content: 'X';
+        display: block;
+        /* Position */
+        position: absolute;
+        right: -10px;
+        top: -10px;
+        width: 1.5em;
+        padding: 1px 1px 1px 2px;
+        /* Style */
+        text-decoration: none;
+        text-shadow: none;
+        text-align: center;
+        font-weight: bold;
+        background: rgba(255,0,0,0.8);
+        color: #fff;
+        border: 3px solid #fff;
+        border-radius: 20px;
+        box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+    }
+
+
+/* Open modal */
+a.openModal {
+    margin: 1em auto;
+    display: block;
+    width: 500px;
+    background: #ccc;
+    text-align: center;
+    padding: 10px;
+    border-radius: 7px;
+    background: #fff;
+    background: -moz-linear-gradient(#fff, #ddd);
+    background: -webkit-linear-gradient(#fff, #ddd);
+    background: -o-linear-gradient(#fff, #ddd);
+    background: linear-gradient(#fff, #ddd);
+    text-shadow: 0 1px 0 #fff;
+    border: 1px solid rgba(0,0,0,0.1);
+    box-shadow: 0 1px 1px rgba(0,0,0,0.3);
+}
+
+#options {
+padding:10px;
+padding-top: 10px;
+padding-bottom: 30px;
+margin-right:280px;
+}
+#options .cancel {
+    float: right;
+    width: 80px;
+    height: 20px;
+}
+    #options .save {
+        float: right;
+        margin-right: 20px;
+        width: 80px;
+        height: 20px;
+    }
+
+.pip {
+    display: inline-block;
+    margin: 10px 10px 0 0;
+    max-width: 100px;
+}
+
+.remove {
+    padding: 4px;
+    width: 15px;
+    height: 15px;
+    margin-left: 18px;
+    display: block;
+    background-color: rgba(255,0,0,0.6);
+    color: white;
+    text-align: center;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 15px;
+    box-shadow: 0px 3px 6px rgba(0,0,0,0.4);
+}
+
+    .remove:hover {
+        background-color: rgba(255,0,0,0.8);
+        color: white;
+        transition-duration: 0.1s;
+    }
+
+
+.openModel {
+    padding: 17px;
+    background-color: rgba(0,0,0,0.4);
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    position: absolute;
+    margin-top: 20px;
+}
+#header {
+    background-color: lightgray;
+}
+#header p {
+    color: black;
+    text-shadow: none;
+    display: inline;
+    padding-top: -10px;
+}
+#header img {
+    width: 20px;
+    padding:5px;
+}
+h3,h4{
+    padding-left:5px;
+}
+#modalRow{
+    margin:5px;
+    padding-left:10px;
+    height: 210px;
+    overflow: scroll;
+    overflow-x: hidden;
+    border: 1px solid black;
+}

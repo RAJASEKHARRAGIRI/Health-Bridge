@@ -1,0 +1,200 @@
+﻿body {
+    font-family: comic sans, comic sans ms, cursive, verdana, arial, sans-serif;
+    color: white;
+    font-size: 14px;
+    margin-top: -18px;
+    background-color: black;
+}
+@font-face {
+    font-family: 'MASQUE';
+    src: url('../fonts/Masque.woff') format('woff');
+}
+#divbg {
+    background-image: linear-gradient(rgba(0,0,0,.74), rgba(0,0,0,.74)), url("../images/bg.jpg");
+    background-position: center top;
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    z-index: -2;
+    background-size: 100% auto;
+}
+.topNavBar #logoutButton {
+    width: 100px;
+    height: 50px;
+    background-color: transparent;
+    color: darkgrey;
+    font-size: 14px;
+}
+.topNavBar #logoutButton:hover{
+    color: indianred;
+    background-color: black;
+    font-size: 16px;
+}
+.siteName {
+    font-family: MASQUE;
+    color: white;
+    text-shadow: 1px 3px 10px black;
+    font-weight: 600;
+    font-size: 20px;
+    margin-left: -30px;
+    background-color: coral;
+}
+.topNavBar .navbar-header .siteName:hover {
+    background-color: coral;
+    text-shadow: 3px 5px 10px black;
+    transition: all .4s ease;
+}
+
+
+.subMenu{
+    background-color: rgba(0,0,0,0.5);
+}
+.subMenu li a{
+    background-color: rgba(0,0,0,0.7);
+    color: darkgrey;
+    padding:8px;
+    text-align: center;
+}
+.subMenu li a:hover{
+    background-color: coral;
+    color: white;
+}
+.searchDiv .searchButton {
+    padding: 16.5px;
+    width: 90px;
+    background-color: darkolivegreen;
+    color: white;
+    border: none;
+    font-size: 17px;
+    outline: none;
+}
+
+.getLocationDiv .getLocation {
+    background-color: azure;
+    padding: 16.5px;
+    width: 70px;
+    color: black;
+    border: none;
+    border-radius: 0px;
+    font-size: 17px;
+    outline: none;
+}
+
+
+
+.suggestions #cities {
+    height: 50px;
+    font-size: 15px;
+}
+.suggestions #dropdownDoctors {
+    height: 50px;
+    background-color: darkcyan;
+    outline: none;
+    border: none;
+    color: rgba(255,255,255,0.85);
+}
+/*Css to target the dropdownbox*/
+ul.ui-autocomplete {
+    color: rgba(0,0,0,0.7);
+    background-color: white;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 15px;
+    font-family: comic sans, comic sans ms, cursive, verdana, arial, sans-serif;
+}
+ul.ui-autocomplete li:hover {
+    background-color: red;
+}
+#new_row .upperDivSearchResult .doctorsDiv {
+    background-color: white;
+    margin-bottom: 10px;
+    color: black;
+    box-shadow: 2px 2px 10px cyan;
+    border-radius: 10px;
+}
+    #new_row .upperDivSearchResult .doctorsDiv .col-sm-6 {
+       font-size: 16px;
+       padding:5px;
+       text-align: center;
+       color: rgba(0,0,0,0.8);
+    }
+
+#new_row .upperDivSearchResult .doctorsDiv {
+    background-color: white;
+}
+    #new_row .upperDivSearchResult .doctorsDiv .sidenav {
+        background-color: aliceblue;
+        margin-left: -15px;
+        border-radius: 10px;
+    }
+
+#new_row .upperDivSearchResult .doctorsDiv .fee {
+    margin-top: 15px;
+}
+
+    #new_row .upperDivSearchResult .doctorsDiv .col-sm-9 {
+        background-color:white
+    }
+
+
+    #new_row .upperDivSearchResult .doctorsDiv .ratingStars {
+        color: green;
+        font-size: 18px;
+        margin-left: 10px;
+        margin-top: 3px;
+       
+    }
+#new_row .upperDivSearchResult .doctorsDiv .headingName {
+    color: black;
+    font-size: 16px;
+    float: left;
+    margin-top:15px;
+  
+}
+    #new_row .upperDivSearchResult .doctorsDiv .timings {
+        color:rgba(0,0,0,0.7);
+        font-size: 14px;
+    }
+    #new_row .upperDivSearchResult .doctorsDiv .bookNowButton {
+        
+        color: white;
+        border-radius: 5px;
+        outline:none;
+        font-size:14px;
+    }
+    #new_row .upperDivSearchResult .doctorsDiv #noResultText {
+        font-size: 20px;
+        color: indianred;
+    }
+
+/* Scroll Bar */
+/* width */
+::-webkit-scrollbar {
+    width: 18px;
+}
+/* Track */
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey;
+    border-radius: 20px;
+}
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: coral;
+    border-radius: 10px;
+}
+    /* Handle on hover */
+    ::-webkit-scrollbar-thumb:hover {
+        background-color: chocolate;
+    }
+
+/* Scroll Bar End */
+
+.getLocationDiv .getLocation .tooltip > .tooltip-inner {
+    background: yellow;
+    color: #000;
+    font-size:10px;
+}
+/*top navigate button*/
+
+/*top navigate button*/

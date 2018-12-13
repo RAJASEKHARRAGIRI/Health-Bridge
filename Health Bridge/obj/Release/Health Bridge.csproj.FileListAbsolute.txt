@@ -1,0 +1,60 @@
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\Health Bridge.dll.config
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\Health Bridge.dll
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\Health Bridge.pdb
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\roslyn\csc.exe
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\roslyn\csc.exe.config
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\roslyn\csc.rsp
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\roslyn\csi.exe
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\roslyn\csi.exe.config
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\roslyn\csi.rsp
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\roslyn\System.AppContext.dll
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\roslyn\System.Console.dll
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\roslyn\vbc.exe
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\roslyn\vbc.exe.config
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\roslyn\vbc.rsp
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\MySql.Data.dll
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\Newtonsoft.Json.dll
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\DocumentFormat.OpenXml.dll
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\itextsharp.xml
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\obj\Release\Health Bridge.csproj.CoreCompileInputs.cache
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\obj\Release\Health Bridge.csproj.CopyComplete
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\obj\Release\Health Bridge.dll
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\obj\Release\Health Bridge.pdb
+C:\Users\Sekhar\Desktop\Health Bridge\Health Bridge\obj\Release\Health Bridge.csprojAssemblyReference.cache

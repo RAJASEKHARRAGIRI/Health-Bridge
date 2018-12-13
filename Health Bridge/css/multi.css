@@ -1,0 +1,88 @@
+﻿body {
+    background-color: aliceblue;
+}
+
+.pip {
+    display: inline-block;
+    margin: 10px 10px 0 0;
+    max-width: 100px;
+}
+
+.fileName {
+    display: inline-block;
+    max-width: 75px;
+    max-height: 20px;
+    overflow: hidden;
+    position: absolute;
+    font-size: 9px;
+    color: black;
+    padding-left: 2px;
+}
+
+.remove {
+    padding-left: 3px;
+    padding-right: 3px;
+    display: block;
+    background-color: aqua;
+    color: black;
+    text-align: right;
+    cursor: pointer;
+    font-size: 15px;
+    box-shadow: 0px 5px 10px rgba(0,0,0,0.4);
+}
+
+    .remove:hover {
+        background-color: aqua;
+        color: indianred;
+        transition-duration: 0.1s;
+    }
+
+#up {
+    display: none;
+}
+
+#uploadgif p {
+    font-size: 14px;
+    color: darkmagenta;
+    text-align: left;
+    padding-left: 5px;
+}
+
+.imageThumb {
+    height: 100px;
+    width: 100px;
+    margin: 10px 10px 0 0;
+    padding: 1px;
+    border-radius: 5px 5px 0px 0px;
+    border: 1px solid cadetblue;
+}
+
+    .imageThumb:hover {
+        cursor: pointer;
+        transform: scale(2.5,2.5);
+        transition-delay: 0.5s;
+        border: none;
+    }
+
+input[type="file"] {
+    display: none;
+}
+
+#count {
+    font-weight: bold;
+}
+
+#form1 .custom-file-upload {
+    background-color: aliceblue;
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 5px black;
+    display: inline-block;
+    padding: 6px 12px;
+    cursor: pointer;
+}
+
+#btnUpload {
+    margin-top: 2px;
+    box-shadow: 2px 2px 10px black;
+    font-size: 15px;
+}

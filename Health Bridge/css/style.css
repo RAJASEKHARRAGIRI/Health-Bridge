@@ -1,0 +1,57 @@
+﻿body {
+    background-color: aliceblue;
+}
+
+.info {
+    padding-bottom: 10px;
+    font-family: comic sans, comic sans ms, cursive, verdana, arial, sans-serif;
+    font-size: 16px;
+    color: rgba(0,0,0,0.8);
+    padding-left: 20px;
+    display: flex;
+    padding-top: 7px;
+}
+
+.backInfo {
+    background-image: linear-gradient(skyblue, white);
+    height: 190px;
+}
+
+#detailsDiv {
+    padding-left: 4px;
+    display: flex;
+}
+
+.inputField {
+    font-weight: normal;
+    color: #000000;
+    letter-spacing: 0pt;
+    word-spacing: 0pt;
+    font-size: 16px;
+    font-family: comic sans, comic sans ms, cursive, verdana, arial, sans-serif;
+    line-height: 1;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding-left: 4px;
+}
+
+.radio {
+    color: rgba(0,0,0,0.7);
+    padding-left: 25px;
+    font-size: 16px;
+    font-family: comic sans, comic sans ms, cursive, verdana, arial, sans-serif;
+    margin-top: -10px;
+}
+
+.button {
+    background-color: blue;
+    color: white;
+    letter-spacing: 0pt;
+    word-spacing: 0pt;
+    font-size: 16px;
+    text-align: center;
+    font-family: comic sans, comic sans ms, cursive, verdana, arial, sans-serif;
+    line-height: 1;
+    width: 250px;
+    border-radius: 5px;
+}
